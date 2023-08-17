@@ -9,11 +9,11 @@ Symbol : MICIN
 
 Decimals : 18
 
-Total Supply : 24,000,000
+Total Supply : 100,000,000
 
-Contract Address : 0xD2379640fab7D568382B61a806AbBeDdA3B98FC2
+Contract Address : 0x8A3Df4fa8cEB504dA74F3F30f620681F7fd867c6
 
-Chain Network : CoreDao, Polygon, BSC, Ethereum
+Chain Network : Core Dao
 
 <h3>Official Links</h3>
 
